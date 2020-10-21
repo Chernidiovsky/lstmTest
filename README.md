@@ -4,9 +4,9 @@
 
 验证安装成功，检查三个必备import：
 
-from torch.utils.data import DataLoader
-import torch.optim as optim
-import torch
+	from torch.utils.data import DataLoader
+	import torch.optim as optim
+	import torch
 
 
 2 定义LSTM
