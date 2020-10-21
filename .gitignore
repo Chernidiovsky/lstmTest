@@ -1,0 +1,7 @@
+.idea
+*.csv
+*.txt
+*.xlsx
+*.pkl
+*.log
+*.pth
